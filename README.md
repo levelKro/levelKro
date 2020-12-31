@@ -11,7 +11,7 @@
 ### 📫 How to reach me: ...
 - <a href="https://levelkro.com" target="_blank">levelKro .com</a> Personal page. You have also all links about me on others networks.
 - <a href="https://levelkro.net" target="_blank">levelKro .net</a> Business page.
-- <a href="https://levelkro.xyz" target="_blank">levelKro .xyz</a> Projects page. You found some private creation, like my PHP Youtube DOwnloader and my PHP Uploader
+- <a href="https://levelkro.xyz" target="_blank">levelKro .xyz</a> Projects page. You found some private creation, like my Wiki, PHP Youtube Downloader and my PHP Uploader
 - <a href="https://fb.com/levelKroNetwork" target="_blank">Facebook</a>
 - <a href="https://twitter.com/levelKro" target="_blank">Twitter</a>
 - <a href="https://levelkro.net/discord" target="_blank">Discord</a>
