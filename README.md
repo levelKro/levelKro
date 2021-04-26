@@ -1,6 +1,6 @@
 # Hi there 👋
 ### :atom: I’m currently working on ...
-- Pi DeskBoard (PHP Touch UI for Raspbian with Chromium in Kiosk mode) : Not currently available for release
+- <a href="https://github.com/levelKro/pideskboard">Pi DeskBoard</a> (in Alpha stage), Information panel for Raspberry Pi
 - <a href="https://levelkro.com/wolfenstein3dsource" target="_blank">Wolfenstein 3D: source</a>
 
 ### :electron: I'm working also on ...
