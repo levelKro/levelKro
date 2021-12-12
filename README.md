@@ -5,7 +5,6 @@
 - <a href="https://levelkro.com/wolfenstein3dsource" target="_blank">Wolfenstein 3D: source</a>
 
 ### :electron: I'm working also on ...
-- <a href="https://cadeauxsteam.com" target="_blank">Cadeaux STEAM</a> (Closed)
 - <a href="https://levelkro.com/leapmouse/" target="_blank">Leap Mouse</a>, for the Leap Motion 
 - Others small projects ... 
 
