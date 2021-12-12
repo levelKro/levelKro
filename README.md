@@ -1,6 +1,5 @@
 # Hi there 👋
 ### :atom: I’m currently working on ...
-- PiCAM, transform the Raspberry into a powerfull camera; can record video, take picure and stream piCamera device and preview on LCD and with TV Out support
 - <a href="https://github.com/levelKro/pideskboard">Pi Deskboard</a>, Information panel for Raspberry Pi
 - <a href="https://github.com/levelKro/piWebCtrl">piWebCtrl</a>, Control your Raspberry Pi with a lite Web UI
 - <a href="https://levelkro.com/wolfenstein3dsource" target="_blank">Wolfenstein 3D: source</a>
