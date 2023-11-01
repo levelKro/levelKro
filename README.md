@@ -23,4 +23,4 @@
 ### :trophy: You like my works ?
 You can donate a amount of money with Paypal; <a href="https://paypal.me/levelkro">https://paypal.me/levelkro</a> , thank you in advance.
 
-<center><a href="https://nick-name.ru/nickname/id1605680/" target="_blank"><img src="https://nick-name.ru/img.php?id=1605680&sert=1" width=320 /></a></center>center>
+<a href="https://nick-name.ru/nickname/id1605680/" target="_blank"><img src="https://nick-name.ru/img.php?id=1605680&sert=1" width=320 /></a>
